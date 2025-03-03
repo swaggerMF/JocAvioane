@@ -12,5 +12,5 @@
 Once all planes are positioned, the game begins. Players take turns guessing the enemy’s plane locations. The first to destroy all opponent’s planes wins!
 
 ## How to run
-g++ -o AirBattleships main.cpp <br>
+g++ -o AirBattleships Avion.cpp <br>
 ./AirBattleships
